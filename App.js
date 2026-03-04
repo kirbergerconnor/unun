@@ -110,9 +110,9 @@ function ProposalSite() {
           {!playingLive ? (
             <div className="flex flex-col items-center gap-3 w-full">
               <p className="text-gray-600 text-sm text-center">
-                The proposal video will play first.
+                // The proposal video will play first.
                 <br />
-                <b>When it ends, it will switch to your phone's live camera automatically.</b>
+                // <b>When it ends, it will switch to your phone's live camera automatically.</b>
               </p>
               <button
                 className="bg-yellow-400 hover:bg-yellow-500 text-white font-bold py-2 px-6 rounded transition"
